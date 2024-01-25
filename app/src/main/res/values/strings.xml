@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string-array name="precision">
+        <item>SECONDS</item>
+        <item>MILLISECONDS</item>
+    </string-array>
+</resources>
